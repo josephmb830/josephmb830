@@ -9,3 +9,6 @@ As I continue my journey in Full Stack development, I am always on the lookout f
 ## Authors
 
 - [@josephmb830](https://github.com/josephmb830)
+
+## Skills
+- Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies.
