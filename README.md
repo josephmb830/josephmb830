@@ -9,3 +9,7 @@ As I continue my journey in Full Stack development, I am always on the lookout f
 ## Authors
 
 - [@josephmb830](https://github.com/josephmb830)
+
+## Hobbies
+- Dancing: salsa, bachata, electronic.
+- Singing.
