@@ -20,3 +20,7 @@ As I continue my journey in Full Stack development, I am always on the lookout f
 ## Hobbies
 - Dancing: salsa, bachata, electronic.
 - Singing.
+
+## Languages
+- Spanish (Native)
+- English (Proficient)
